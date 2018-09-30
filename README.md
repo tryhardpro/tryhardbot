@@ -1,0 +1,2 @@
+# tryhardbot
+my bot
